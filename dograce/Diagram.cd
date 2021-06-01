@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="dograce.AI" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>AI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dograce.Bet" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAEAAAAIAAAAACACAAAAAAAAAAIAAMBAAA=</HashCode>
+      <FileName>Bet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dograce.Bob" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dograce.Form1" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkUCEDAAABRABgCBAQACAgAYAEAACCQhgGEAgCA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dograce.Greyhound" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAwAAAAAAAAAAAAAQAEAAAAAAAAAAQAAAAAAAAI=</HashCode>
+      <FileName>Greyhound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dograce.Joe" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Joe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dograce.Punter" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQCAAgAAiAAAAAAAASAAgAEEAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Punter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
